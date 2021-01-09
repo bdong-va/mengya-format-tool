@@ -10,20 +10,25 @@ var defaultTheme = {
   // block element
   block: {
     h2: {
-      'font-size': '140%',
+      'font-weight': 'bold',
+      'font-size': '150%',
       'text-align': 'center',
       'font-weight': 'normal',
       'text-align': 'center',
-      'margin': '80px 10px 40px 10px'
+      'margin': '80px 16px 40px 16px',
+      'color':'#606997'
     },
     h3: {
-      'font-weight': 'bold',
-      'font-size': '120%',
-      'margin': '40px 10px 20px 10px'
+      'font-size': '110%',
+      'margin': '40px 16px 20px 16px',
+      'color':'#f8d257'
     },
     p: {
-      'margin': '10px 10px',
-      'line-height': '1.6'
+      'font-size':'16px',
+      'margin': '16px 16px',
+      'line-height': '2.0',
+      'letter-spacing':'1px',
+      'color':'#4f4f4f'
     },
     blockquote: {
       'color': 'rgb(91, 91, 91)',
@@ -82,10 +87,10 @@ var defaultTheme = {
       'border-radius': '2px',
     },
     link: {
-      'color': '#ff3502'
+      'color': '#606997'
     },
     strong: {
-      'color': '#ff3502'
+      'color': '#aecc5a'
     },
     table: {
       'border-collapse': 'collapse',
