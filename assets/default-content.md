@@ -52,9 +52,9 @@
 ## 非挑战型游戏
 这一类游戏的特点是：**不会失败，或者失败的时候的惩罚极小或者没有。**游戏中几乎没有人物受伤/败退/GAME OVER这种负面反馈。适合喜欢掌握自己游戏节奏的孩子游玩。
 #### 我的世界-创造模式（Minecraft-Creative Mode）
-游戏平台：全平台。连手机上都有。
+>游戏平台：全平台。连手机上都有。
 
-游戏玩法：玩家手里有无限的方块和道具，在一个近似无限大的空间里，随意用创意搭建任何东西。
+>游戏玩法：玩家手里有无限的方块和道具，在一个近似无限大的空间里，随意用创意搭建任何东西。
 
 ![我的世界图片](https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png)
 
@@ -67,9 +67,9 @@
 唯一的可以说是缺点的地方是，这个游戏的操作方式是一只手控制行动，另一只手控制视角。需要一点点双手协作能力。不适合年纪太小的孩子玩。
 
 #### 集合啦！动物森友会 （Animal Crossing: New Horizons）
-游戏平台：Nintendo Switch 独占
+>游戏平台：Nintendo Switch 独占
 
-游戏玩法：和小动物们在一个岛上快乐的生活
+>游戏玩法：和小动物们在一个岛上快乐的生活
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg)
 
@@ -88,9 +88,9 @@
 ~~“要说缺点，可能只有大人辛辛苦苦收拾好的岛有时候会被孩子弄乱这一条了吧。” 发现孩子把昨天自己辛苦种的玫瑰都挖掉了换上了丑丑的南瓜的欲哭无泪的老父亲这样说道。~~ 
 
 #### 甜甜圈郡（Donut County）
-游戏平台：全平台，包括手机
+>游戏平台：全平台，包括手机
 
-游戏玩法：你是一个洞，吞掉东西来变大，然后吞掉更大的东西。
+>游戏玩法：你是一个洞，吞掉东西来变大，然后吞掉更大的东西。
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/en/d/d0/Donut_County_Header.jpg)
 
@@ -103,9 +103,9 @@
 这是我家的娃能独立玩的第一个游戏。他非常非常喜欢，玩通了大概四五遍，会对着里面好笑的场景笑个不停。几乎没有任何操作门槛，即使是很小的孩子也能获得乐趣。
 
 #### 未命名的鹅游戏（Untitled Goose Game）
-游戏平台：全平台，不含手机
+>游戏平台：全平台，不含手机
 
-游戏玩法：你扮演一只鹅，不停的恶作剧。
+>游戏玩法：你扮演一只鹅，不停的恶作剧。
 
 ![](https://upload.wikimedia.org/wikipedia/en/d/db/Untitled_Goose_Game_video_game_cover_art.jpg)
 
@@ -129,9 +129,9 @@
 ~~要说缺点就是孩子后来对真鹅总有莫名的戒备，总觉得那些鹅会趁他不注意跑来叼走他的小玩具。~~
 
 #### 极限竞速：地平线系列 （Forza Horizon）
-游戏平台：Xbox，PC（Windows Store）
+>游戏平台：Xbox，PC（Windows Store）
 
-游戏玩法：开车在英国的小镇上闲逛
+>游戏玩法：开车在英国的小镇上闲逛
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/en/8/87/Forza_Horizon_4_cover.jpg)
 
@@ -154,9 +154,9 @@
 还有，如果家庭成员里有汽车爱好者的话，这款游戏对真实车辆手感的精确还原和里面真实车辆的丰富程度说不定会让他们狂喜不已哦。算是个额外收获！
 
 #### Nintendo Labo Kit
-游戏平台： Nintendo Switch 独占 （不含Switch Lite）
+>游戏平台： Nintendo Switch 独占 （不含Switch Lite）
 
-游戏玩法：和硬纸板配合的电子玩具
+>游戏玩法：和硬纸板配合的电子玩具
 
 第一次看到Labo盒子的时候，如果没有心理预期会吓一跳：怎么这么大！
 
@@ -182,9 +182,9 @@ Nintendo Labo是一个游戏系列，现在已经推出了四组不同的构件�
 
 注意switch lite不能用来游玩本游戏。
 #### 健身环大冒险 （Ring Fit Adventure）
-游戏平台： Nintendo Switch 独占 （Switch Lite需要单独加购JoyCon）
+>游戏平台： Nintendo Switch 独占 （Switch Lite需要单独加购JoyCon）
 
-游戏玩法：目前市面上最优秀的健身游戏
+>游戏玩法：目前市面上最优秀的健身游戏
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/en/0/0e/Ringfitadventure.jpg)
 
@@ -201,9 +201,9 @@ Nintendo Labo是一个游戏系列，现在已经推出了四组不同的构件�
 注意市面上有很多宣传自己卖的是健身环的低价产品，都是不包含游戏本体的，只带一个环配件。这样是不能玩的！买的时候请一定注意甄别。以及这个游戏有国行版本，国行版本无法在非国行机器上使用，购买的时候请注意和自己的switch机器版本配套。
 
 #### 乐高游戏系列 
-游戏平台：全平台 （部分有手机移植版）
+>游戏平台：全平台 （部分有手机移植版）
 
-游戏玩法：控制乐高小人闯关
+>游戏玩法：控制乐高小人闯关
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/en/d/d2/LegoStarWarsSkywalkerSaga.jpg)
 
@@ -217,9 +217,9 @@ Nintendo Labo是一个游戏系列，现在已经推出了四组不同的构件�
 
 而且因为游戏多数都比较旧了，各个平台的购入价格都很便宜。基本上每次促销都打五折或者更低。PC版建议使用手柄进行游戏。
 #### 刺客信条：探索之旅
-游戏平台：PC，Xbox，PlayStation
+>游戏平台：PC，Xbox，PlayStation
 
-游戏玩法：自由探索古埃及和古希腊
+>游戏玩法：自由探索古埃及和古希腊
 
 ![enter image description here](https://store.ubi.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwde29daa5/images/large/5d6e8ba05cdf9a3ab80a059d-1.jpg?sw=783&sh=440&sm=fit)
 
@@ -249,9 +249,9 @@ Nintendo Labo是一个游戏系列，现在已经推出了四组不同的构件�
 这一分类的游戏和之前的游戏比起来，难度有不同程度的上升，其中有只有一点点挑战性的，也有孩子可能招架不来甚至连成年人不小心都可能栽跟头的。更适合年纪稍大的孩子或者脾气倔强绝不服输的孩子游玩。
 
 #### 我的世界 （Minecraft）
-游戏平台：全平台。连手机上都有。
+>游戏平台：全平台。连手机上都有。
 
-游戏玩法：玩家在一个方块世界里生存，建造，战斗。
+>游戏玩法：玩家在一个方块世界里生存，建造，战斗。
 
 ~~小编出来！扣工资啦！这个游戏你明明刚才已经介绍一遍了！~~
 
@@ -268,9 +268,9 @@ Nintendo Labo是一个游戏系列，现在已经推出了四组不同的构件�
 之前我们也做过更详细的介绍，具体参见<此处插入萌芽minecraft的链接>
 
 #### 精灵宝可梦 （Pokémon）
-游戏平台：Nintendo Switch
+>游戏平台：Nintendo Switch
 
-游戏玩法：捕捉宝可梦，和其他宝可梦训练师互相对战。
+>游戏玩法：捕捉宝可梦，和其他宝可梦训练师互相对战。
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/en/f/fa/Pok%C3%A9mon_Sword_and_Shield.jpg)
 
@@ -283,9 +283,9 @@ Nintendo Labo是一个游戏系列，现在已经推出了四组不同的构件�
 最大的门槛是，小孩子需要识字才能体会到完整的乐趣。不然的话可能需要父母在旁边代玩+解说。
 
 #### 马力欧赛车8豪华版（Mario Kart 8 Deluxe）
-游戏平台：Nintendo Switch
+>游戏平台：Nintendo Switch
 
-游戏玩法：赛车游戏。但是可以和其他对手互相扔炸弹和香蕉皮
+>游戏玩法：赛车游戏。但是可以和其他对手互相扔炸弹和香蕉皮
 
 ![enter image description here](https://assets1.ignimgs.com/2019/05/31/mario-kart-8-deluxe---button-1559265583166.jpg)
 
@@ -302,9 +302,9 @@ switch上长盛不衰的游戏。发售几年了，却依然在各个国家的sw
 ~~但是会在极其罕见的输给他的时候声称自己刚刚一直在让着他。~~
 
 #### 超级马力欧：奥德赛 （Super Mario Odyssey）
-游戏平台：Nintendo Switch
+>游戏平台：Nintendo Switch
 
-游戏玩法：操纵马力欧，击败酷霸王，救回公主。
+>游戏玩法：操纵马力欧，击败酷霸王，救回公主。
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg)
 
@@ -319,9 +319,9 @@ switch上长盛不衰的游戏。发售几年了，却依然在各个国家的sw
 如果这个难度下依然有些困难的话，还有一个**双人模式**。一个玩家控制马力欧，另一个控制马力欧的帽子。控制帽子的玩家不会受到伤害，可以控制帽子飞来飞去来触发机关和攻击敌人，适合家长和小一点的孩子一起玩。
 
 #### 我的世界：地下城 （Minecraft Dungeons）
-游戏平台：全平台，不含手机
+>游戏平台：全平台，不含手机
 
-游戏玩法：打怪兽，变强，打更强的怪兽，变更强。
+>游戏玩法：打怪兽，变强，打更强的怪兽，变更强。
 
 ~~小编出来！这次可以扣工资了吧！一个游戏怎么能介绍三次呢！~~
 
@@ -341,9 +341,9 @@ switch上长盛不衰的游戏。发售几年了，却依然在各个国家的sw
 
 
 #### 坎巴拉太空计划 （Kerbal Space Program）
-游戏平台：除switch之外的全平台
+>游戏平台：除switch之外的全平台
 
-游戏玩法：造火箭，发射
+>游戏玩法：造火箭，发射
 
 ![enter image description here](https://steamcdn-a.akamaihd.net/steam/apps/220200/capsule_616x353.jpg?t=1592340850)
 
@@ -357,9 +357,9 @@ switch上长盛不衰的游戏。发售几年了，却依然在各个国家的sw
 
 当然也同样适合心里装着星辰大海的成年人。
 #### 缺氧 （Oxygen Not Included）
-游戏平台：PC
+>游戏平台：PC
 
-游戏玩法：基地建造模拟，生存
+>游戏玩法：基地建造模拟，生存
 
 ![enter image description here](https://steamcdn-a.akamaihd.net/steam/apps/457140/header.jpg?t=1608323271)
 
