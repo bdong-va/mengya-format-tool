@@ -149,8 +149,11 @@ var WxRenderer = function (opts) {
         }
       }
     }
-    renderer.strong = renderer.em = function (text) {
+    renderer.strong = function (text) {
       return '<strong ' + S('strong') + '>' + text + '</strong>'; 
+    }
+    renderer.em = function (text) {
+      return '<em ' + S('em') + '>' + text + '</em>'; 
     }
     renderer.table = function (header, body) {
       return '<table ' + S('table') + '><thead ' + S('thead') + '>' + header + '</thead><tbody>' + body + '</tbody></table>'; 

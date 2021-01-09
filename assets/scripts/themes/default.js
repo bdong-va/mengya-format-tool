@@ -39,7 +39,7 @@ var defaultTheme = {
     code: {
       'font-size': '80%',
       'overflow': 'auto',
-      'color': '#333',
+      'color': '#ab1942',
       'background': 'rgb(247, 247, 247)',
       'border-radius': '2px',
       'padding': '10px',
@@ -91,6 +91,10 @@ var defaultTheme = {
     },
     strong: {
       'color': '#aecc5a'
+    },
+    em: {
+      'font-weight': 'bold',
+      'color': '#606997'
     },
     table: {
       'border-collapse': 'collapse',
